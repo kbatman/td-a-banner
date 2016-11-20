@@ -1,14 +1,14 @@
 /**
  * @ngdoc directive
  * @author daniel.cho@td.com/danielcho80@gmail.com
- * @name com.td.dcts.ngpUsWebExp.directive:tdABanner
+ * @name tduiteam.directive:tdABanner
  * @example
  * <pre>
  *	<section td-a-banner options='{"parallax_top":105,"parallax_top_m":105,"bg_srcset":{"lg":"images/a-banners/a-banner-01-dt.jpg", "md":"images/a-banners/a-banner-01-tl.jpg", "sm":"images/a-banners/a-banner-01-tp.jpg","xs":"images/a-banners/a-banner-01-mobile.jpg"}}'>
  * </pre>
  */
 
-angular.module('com.td.dcts.ngpUsWebExp').directive('tdABanner',['$timeout','$window', function (timer) {
+angular.module('tduiteam').directive('tdABanner',['$timeout','$window', function (timer) {
 
   'use strict';
 
