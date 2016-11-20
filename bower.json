@@ -12,6 +12,6 @@
 		"bower_components"
 	],
 	"dependencies": {
-		"angular": "*"
+		"angular": "1.2.28"
 	}	
 }
