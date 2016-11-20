@@ -1,0 +1,17 @@
+{
+	"name": "td-a-banner",
+	"version": "1.0.0",
+	"description": "four different images for all breakpoints - parallax option included",
+	"main": "td-a-banner.js",
+	"authors": [
+		"danielcho80@gmail.com"
+	],
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"components"
+	]
+	"dependencies": {
+		"angular": "~1.2",
+	}	
+}
