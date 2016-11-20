@@ -8,7 +8,7 @@
  * </pre>
  */
 
-angular.module('tduiteam').directive('tdABanner',['$timeout','$window', function (timer) {
+angular.module('tduiteam',[]).directive('tdABanner',['$timeout','$window', function (timer) {
 
   'use strict';
 
